@@ -80,8 +80,4 @@ shadownex = {
 
 ---
 
-<div align="center">
-<sub>Built by Shadownex • 2026 • v2 OBF Focus</sub>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=120&section=footer" alt="" aria-hidden="true" />
