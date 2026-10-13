@@ -28,10 +28,6 @@ shadownex = {
     "learning": ["Python automation", "Laravel", "Pentesting"],
 }
 ```
-
-- 🔭 Lagi fokus: **TOOLS OBF**
-- 🌱 Lagi dalami: **Python automation, Laravel, Pentesting**
-
 ---
 
 ### 🛠️ Tech Stack
