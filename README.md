@@ -18,6 +18,8 @@
 
 ### 👨‍💻 About Me
 
+<img align="right" width="220" src="https://camo.githubusercontent.com/7bd1ffc958dbf4cd5c7f94a9826afad6e103f37385d37e0a6e2fede43a2ec97c/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f6247677363356d576f727966674b427831752f67697068792e676966" alt="Coding gif" />
+
 ```python
 shadownex = {
     "name": "Shadownex",
@@ -51,6 +53,10 @@ shadownex = {
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<p align="left">
+  <img src="https://camo.githubusercontent.com/ee51e7080ef517949b61ede6b48b81b15ec35dd6e16490f97d3326c76de2173e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d70792c6a732c74732c6e6f64656a732c76657263656c2c6c696e75782c7562756e74752c62617368267065726c696e653d38" alt="Skill icons: python, javascript, typescript, nodejs, vercel, linux, ubuntu, bash" loading="lazy" />
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -64,6 +70,7 @@ shadownex = {
 
 <img height="150" style="max-width:100%; height:auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadownex293&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E2E8F0" alt="Bahasa paling dipakai Shadownex293" loading="lazy" />
 <img height="150" style="max-width:100%; height:auto;" src="https://github-profile-trophy.vercel.app/?username=Shadownex293&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub trophies Shadownex293" loading="lazy" />
+<img height="165" style="max-width:100%; height:auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=Shadownex293&theme=dark&background=0d1117&fire=ffffff&ring=ffffff&stroke=ffffff&currStreakLabel=ffffff" alt="GitHub streak Shadownex293 dark theme" loading="lazy" />
 
 </div>
 
