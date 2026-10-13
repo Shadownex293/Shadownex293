@@ -1,4 +1,4 @@
-<video src="https://h.uguu.se/NJAAQUQe.mp4" width="100%" autoplay muted loop playsinline controls></video>
+<img src="banner.gif" width="100%" alt="Shadownex banner" />
 
 <div align="center">
 
