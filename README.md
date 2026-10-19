@@ -4,11 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&color=38BDF8&lines=Hi+%F0%9F%91%8B%2C+I'm+Shadownex;OBF+Tools+Builder;Python+Automation+%7C+Laravel+%7C+Pentesting)](https://git.io/typing-svg)
 
-**Building OBF tools, automation scripts & web systems.**
+**𝐓𝐎𝐎𝐋𝐒 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓.**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Shadownex293&label=PROFILE+VIEWS&color=0EA5E9&style=flat)](https://github.com/Shadownex293)
 [![GitHub Followers](https://img.shields.io/github/followers/Shadownex293?label=Followers&style=flat&color=0EA5E9)](https://github.com/Shadownex293?tab=followers)
-[![Focus](https://img.shields.io/badge/FOCUS-OBF_TOOLS-blue?style=flat)](https://github.com/Shadownex293)
+[![Focus](https://img.shields.io/badge/F𝘖𝘉𝘍𝘜𝘚𝘊𝘈𝘛𝘌-𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘔𝘌𝘕𝘛
+-blue?style=flat)](https://github.com/Shadownex293)
 
 [Skills](#-tech-stack) • [Stats](#-github-stats) • [Contact](#-lets-connect)
 
@@ -24,10 +25,10 @@
 shadownex = {
     "name": "Shadownex",
     "username": "Shadownex293",
-    "role": "OBF Tools Builder",
+    "role": "Tools Development And Web Developer",
     "based_in": "Indonesia",
-    "focus": ["OBF Tools", "Python Automation", "Laravel", "Pentesting"],
-    "learning": ["Python automation", "Laravel", "Pentesting"],
+    "focus": ["OBFUSCATE", "API", "TOOLS", "PENTESTING"],
+    "learning": ["Python automation", "Api", "Pentesting"],
 }
 ```
 
